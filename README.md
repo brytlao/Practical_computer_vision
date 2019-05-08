@@ -8,5 +8,6 @@ Note about images:
 - However, some exercises require particular scenes to confirm the performance of the algorithms.
 - In such cases, images from the book are used, unless an unmodified image cannot be obtained.
 
-Third-party images used:
+Third-party resources used:
 - https://commons.wikimedia.org/wiki/File:Traffic_in_Manhattan.jpg
+- https://motchallenge.net/data/MOT16.zip
